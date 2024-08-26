@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpot" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> obelisco </title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <div id="topo">
+    <img src="p_logo.jpg">
+    <img src="p_casabranca.jpg">
+    <img src="p_capitolio.jpg">
+    <img src="p_obelisco.jpg">
+</div>
+<div id="menu">
+    <ul>
+    <li><a href="washington.html" target="principal">Washington</a></li>
+    <li><a href="casabranca.html" target="principal">Casa Branca</a></li>
+    <li><a href="capitolio.html" target="principal">Capitolio</a></li>
+    <li><a href="obelisco.html" target="principal">Obelisco</a></li>
+    </ul>
+</div>
+<div id="conteudo">
+    <iframe name="principal" src="washington.html" width="700" height="500"></iframe>
+</div>
+<div id="rodape">
+
+</div>
+
+</body>   
+</html 
